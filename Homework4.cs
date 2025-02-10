@@ -21,7 +21,7 @@
             Console.WriteLine($"The largest number between {num1} and {num2} is: {largest}");
         }
 
-        // Helper method for Q1:
+        // Helper method for Q1
         static int GetLargestNumber(int a, int b)
         {
             if (a > b)

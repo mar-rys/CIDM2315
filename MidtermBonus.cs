@@ -1,5 +1,3 @@
-﻿using System;
-
 class HumanPlayer
 {
     private int points;
